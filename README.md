@@ -32,7 +32,7 @@ In some wallets you may not find this .conf file and in such case you’ll have 
 Now open the .conf file in notepad or notepad ++ and paste all the node lists.
 Once done, save the .conf file and re open your wallet.
 That’s it! Your wallet should now connect to the network and start synchronizing. If you have further question contact 
-info@Oduwacoin.io
+support@Oduwacoin.io
 
 Thank You
 Oduwa Dev Team 
