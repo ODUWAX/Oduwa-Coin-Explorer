@@ -3,7 +3,8 @@ API Documentation The block explorer provides an API allowing users and/or appli
 (http://oduwaexplorer.com/)<br>
 
 
-
+                       Add Seed Server<br>
+      
 
 1 - Stop your wallet.
 
